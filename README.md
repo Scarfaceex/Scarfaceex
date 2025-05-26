@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lueoo</h1>
 <h3 align="center">A passionate developer for fiveM from Moroccoo</h3>
 
-- 🔭 I’m currently working on [Timeless RolePlay](discord.gg/timelessroleplay)
+- 🔭 I’m currently working on [NMC RolePlay](https://discord.gg/dhTxY2ffuv)
 
 - 🛠️ what i do ? **1 .Develop and manage FiveM servers, implementing custom features, scripts, and optimizing performance. 2 . Create bots and services for automation, management, and integration with platforms like Discord. 3 . Build APIs and tools to enhance gameplay, server security, and community interaction.**
 
-- 🔭 I’m currently working on [5Eye Anticheat](https://discord.gg/ZnvncTcWNk)
-
 - 🔑 Old Projects [FlySide Cheats](https://www.youtube.com/watch?v=pBo2AJuelS8)
 
-- 📫 How to reach me **tawalobkr@gmail.com**
+- 📫 How to reach me **contactlueooservices@gmail.com**
 
 - 🔒 Contact me At **Discord : @unlucky_9106**
 
